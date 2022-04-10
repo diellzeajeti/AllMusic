@@ -1,0 +1,2 @@
+# AllMusic
+Imitation of AllMusic
